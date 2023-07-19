@@ -41,7 +41,7 @@ function select(guessedTrue) {
     valueY += 80;
     itemContainer.scroll(0, valueY);
     // Add player guess to array
-    return guessedTrue ? playerGuessArray.push('true') : playerGuessArray ('false');
+    return guessedTrue ? playerGuessArray.push('true') : playerGuessArray.push('false');
 }
 
 // Display Game Page
