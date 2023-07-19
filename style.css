@@ -252,7 +252,7 @@ button:active {
   margin-bottom: 0;
 }
 
-.penalty-time {
+.penalty-time, .mistakes {
   color: var(--danger);
 }
 
